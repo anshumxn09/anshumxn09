@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshuman Sharma</h1>
-<h3 align="center">Passionate to learn new technologies coming up in the DIGITAL WORLD. Sharping my SKILLS to gain more and more logic to work with Industry.</h3>
+<h3 align="center">Passionate to learn new technologies coming up in the DIGITAL WORLD. Sharpening my SKILLS to gain more and more logic to work with Industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumxn09&label=Profile%20views&color=0e75b6&style=flat" alt="anshumxn09" /> </p>
 
