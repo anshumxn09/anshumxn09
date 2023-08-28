@@ -43,10 +43,10 @@ A passionate learner who's always willing to learn and work across technologies 
 
 <details>
   <summary> <h3>🐱‍👤 GitHub Stats </h3> </summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anshumxn09&theme=midnight-purple&show_icons=true" alt="Stats">
+  <img align="left" alt="anshumxn09" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumxn09&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=anshumxn09&theme=midnight-purple&show_icons=true" alt="Stats">
 </details>
 
 <div align="center" >
-   <img align="left" alt="anshumxn09" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumxn09&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-  <img align="right" src="https://streak-stats.demolab.com?user=anshumxn09&theme=midnight-purple" alt="anshumxn09" />
+  <img align="center" src="https://streak-stats.demolab.com?user=anshumxn09&theme=midnight-purple" alt="anshumxn09" />
 </div>
