@@ -13,7 +13,7 @@ A passionate learner who's always willing to learn and work across technologies 
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/anshumxn09/)! I am happy to help.
 - 👾 Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 How to reach me: sharmaaanshumaan@gmail.com.
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1oYS_MKJVE_QvYa52vEdg_FJIlHTEQY_l/view?usp=drive_link).
+- 📝 Checkout my [Resume](https://portx-server.onrender.com/pdf).
 - ❤ All Time Fav: JavaScript
 
 <hr>
