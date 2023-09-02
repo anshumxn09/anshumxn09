@@ -9,7 +9,7 @@ A passionate learner who's always willing to learn and work across technologies 
 
 - 🛠 I’m currently working with Nodejs, Express, React, Mongodb, Javascript, etc.
 - 🚀 I’m currently learning Full Stack Development.
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/anshumxn09).
+- 👨🏻‍💻 Have a look on my [Portfolio](https://anshumxnportfolio.netlify.app/).
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/anshumxn09/)! I am happy to help.
 - 👾 Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 How to reach me: sharmaaanshumaan@gmail.com.
