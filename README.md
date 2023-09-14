@@ -11,7 +11,7 @@ A passionate learner who's always willing to learn and work across technologies 
 - 🚀 I’m currently learning Full Stack Development.
 - 👨🏻‍💻 Have a look on my [Portfolio](https://anshumxnportfolio.netlify.app/).
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/anshumxn09/)! I am happy to help.
-- 👾 Fun fact: Equal is Not Always Equal in Javascript.
+- 👾 Recent Work: [Blog Media](https://dxb-blogmedia.netlify.app/)
 - 📫 How to reach me: sharmaaanshumaan@gmail.com.
 - 📝 Checkout my [Resume](https://portx-server.onrender.com/pdf).
 - ❤ All Time Fav: JavaScript
