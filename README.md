@@ -4,14 +4,19 @@
 
 A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-- 🛠 I’m currently working with Nodejs, Express, React, Mongodb, Javascript, etc.
-- 🚀 I’m currently learning Full Stack Development.
-- 👨🏻‍💻 Have a look on my [Portfolio](https://anshumxnportfolio.netlify.app/).
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/anshumxn09/)! I am happy to help.
-- 👾 Recent Work: [Blog Media](https://dxb-blogmedia.netlify.app/)
-- 📫 How to reach me: workwithanshumaan@gmail.com.
-- 📝 Checkout my [Resume](https://portx-server.onrender.com/pdf).
-- ❤ All Time Fav: JavaScript
+<details>
+  <summary> <h3>⚔ About Me</h3> </summary>
+  <ul>
+    <li>🛠 I’m currently working with Nodejs, Express, React, Mongodb, Javascript, etc.</li>
+    <li>🚀 I’m currently learning Full Stack Development.</li>
+    <li>👨🏻‍💻 Have a look on my <a href="https://anshumxnportfolio.netlify.app/" target="_blank" >Portfolio</a></li>
+    <li>💬 Ask me about anything <a href="https://www.linkedin.com/in/anshumxn09/" target="_blank" >Here</a>! I am happy to help.</li>
+    <li>👾 Recent Work: <a href="https://dxb-blogmedia.netlify.app/" target="_blank" >Blog Media</a></li>
+    <li>📫 How to reach me: <a href="mailto:workwithanshumaan@gmail.com" target="_blank" >Click Here</a></li>
+    <li>📝 Checkout my <a href="https://portx-server.onrender.com/pdf" target="_blank" >Resume</a></li>
+    <li>❤ All Time Fav: JavaScript</li>
+  <ul>
+</details>
 
 <hr>
 
