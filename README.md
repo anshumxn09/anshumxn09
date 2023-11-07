@@ -12,7 +12,7 @@ A passionate learner who's always willing to learn and work across technologies 
 - 👨🏻‍💻 Have a look on my [Portfolio](https://anshumxnportfolio.netlify.app/).
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/anshumxn09/)! I am happy to help.
 - 👾 Recent Work: [Blog Media](https://dxb-blogmedia.netlify.app/)
-- 📫 How to reach me: sharmaaanshumaan@gmail.com.
+- 📫 How to reach me: workwithanshumaan@gmail.com.
 - 📝 Checkout my [Resume](https://portx-server.onrender.com/pdf).
 - ❤ All Time Fav: JavaScript
 
