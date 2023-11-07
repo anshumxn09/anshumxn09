@@ -18,7 +18,7 @@ A passionate learner who's always willing to learn and work across technologies 
   <ul>
 </details>
 
-<hr>
+<hr/>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -43,6 +43,8 @@ A passionate learner who's always willing to learn and work across technologies 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
+<hr/>
+
 <details>
   <summary> <h3>🐱‍👤 GitHub Stats </h3> </summary>
   <img align="left" alt="anshumxn09" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumxn09&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
@@ -51,4 +53,9 @@ A passionate learner who's always willing to learn and work across technologies 
 
 <div align="center" >
   <img align="center" src="https://streak-stats.demolab.com?user=anshumxn09&theme=midnight-purple" alt="anshumxn09" />
+</div>
+<br/>
+
+<div align="center">
+  <p>🏹 🔹 🎯 🔹 🏆</p>
 </div>
