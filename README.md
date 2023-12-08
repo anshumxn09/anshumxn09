@@ -1,3 +1,3 @@
 <div align="center">
-  <img align="center" width="480" height="269" alt="Khonsu" src="https://media4.giphy.com/media/BfhQo4svVki7zPfFd5/giphy.gif"/>
+  <img align="center" width="550" height="234" alt="Khonsu" src="https://insidethemagic.net/wp-content/uploads/2022/04/Mr.-Knight-2-550x234.png"/>
 </div>
